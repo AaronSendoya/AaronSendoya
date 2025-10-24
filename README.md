@@ -12,8 +12,9 @@
 
 ## 🧠 Sobre mí
 - 🎓 Estudiante de Ing. de Sistemas (UNIVALLE).
-- 💻 Enfoque en **Java + Spring Boot**, **Android**, **APIs REST**, **C#** y **PHP**.
-- 🔭 Me gusta construir proyectos claros, documentados y reutilizables.
+- 💻 Enfoque en **Java + xml, flutter, en general mi preferencia es Programación Móvil.
+- 🔭 Me gusta construir proyectos claros, estructurados y escalables.
+
 
 ---
 
