@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 Stack principal (iconos)
+## 🧰 Stack principal 
 <div align="center">
 
 <!-- lenguajes / frameworks -->
