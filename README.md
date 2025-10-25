@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Repos destacados (cards dinámicas)
+## 🚀 Repos destacados
 <!-- Usa los mismos repos que muestras como “Popular repositories” en tu perfil -->
 <div align="center">
   <a href="https://github.com/AaronSendoya/demoweb">
@@ -101,8 +101,8 @@
 ---
 
 ## 📫 Conecta conmigo
-- ✉️ **sendoyabaqueros@gmail.com**
-- 💼 LinkedIn: *(añade tu enlace)*
+- ✉️ **renesendoyabaqueros@gmail.com**
+- 💼 LinkedIn: *linkedin.com/in/rene-sendoya-baqueros-1b2467371*
 
 ---
 
