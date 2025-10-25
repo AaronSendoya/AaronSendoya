@@ -19,7 +19,7 @@
 
 ## 🧠 Sobre mí
 - 🎓 Estudiante de Ing. de Sistemas (UNIVALLE).
-- 📱 Enfoque en **Programación Móvil** (Android con Java/XML, Flutter) y **APIs REST** con **Java + Spring Boot**.
+- 📱 Enfoque en **Programación Móvil** (Android con Java/XML, Flutter).
 - 🧩 Me gusta construir soluciones **claras, estructuradas y escalables**.
 
 ---
